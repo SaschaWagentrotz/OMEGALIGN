@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.3",
+	"EngineVersion" : "",
+	"FriendlyName": "OMEGALIGN",
+	"Description": "Helpful functions and hotkeys to place and align objects in your levels.",
+	"Category": "Other",
+	"CreatedBy": "Sascha Wagentrotz",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.google.com/document/d/1BukJtvR86e1oSRvzC2ZVKuNKR8-PBIqWr09VeH7Z1UQ/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bdc7921fa4d94ddbbf1deb04ddb88eef",
+	"SupportURL": "mailto:sascha@hey.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "OMEGALIGN",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [ "Win64", "Mac", "Linux"]
+		}
+	]
+}
